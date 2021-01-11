@@ -26,7 +26,7 @@ class Solution {
     }
 }
 ```
-- [ ] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 
 ```java
 /**
@@ -60,7 +60,7 @@ class Solution {
     }
 }
 ```
-- [x] [reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [x] [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 ```java
 /**
@@ -111,13 +111,13 @@ class Solution {
     }
 }
 ```
-- [x] [reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
-- [x] [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-- [x] [partition-list](https://leetcode-cn.com/problems/partition-list/)
-- [x] [sort-list](https://leetcode-cn.com/problems/sort-list/)
-- [x] [reorder-list](https://leetcode-cn.com/problems/reorder-list/)
-- [x] [linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
-- [x] [linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-- [x] [palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)
-- [x] [copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- [x] [反转链表ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+- [x] [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [x] [分割链表](https://leetcode-cn.com/problems/partition-list/)
+- [x] [排序链表](https://leetcode-cn.com/problems/sort-list/)
+- [x] [重排链表](https://leetcode-cn.com/problems/reorder-list/)
+- [x] [判断链表是否有环](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [x] [循环链表的环入口ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+- [x] [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+- [x] [链表深克隆](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
